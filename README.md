@@ -1,2 +1,2 @@
 # Movie-Correlation-Visualization-
-I analyzed the correlation between some fields
+I analyzed and visualized the correlation between some fields.
